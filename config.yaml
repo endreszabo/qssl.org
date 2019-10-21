@@ -1,0 +1,7 @@
+baseURL: "https://qssl.org/"
+languageCode: "en-us"
+title: "qssl.org"
+theme: purehugo-onepage
+params:
+  githubName: endreszabo/pdnsapp
+  description: "Zero hassle,<br/>free-to-take&nbsp;away<br/>SSL certificates"

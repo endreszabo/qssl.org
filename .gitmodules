@@ -1,0 +1,3 @@
+[submodule "themes/purehugo-onepage"]
+	path = themes/purehugo-onepage
+	url = git@github.com:endreszabo/purehugo-onepage
